@@ -1,0 +1,23 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "A cool background generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live-server": "./node_modules/live-server/live-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joker7blue/background-generator.git"
+  },
+  "author": "Georges Fouejio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joker7blue/background-generator/issues"
+  },
+  "homepage": "https://github.com/joker7blue/background-generator#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

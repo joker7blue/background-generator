@@ -1,0 +1,30 @@
+body{
+
+	background: linear-gradient(to right, red, green);
+}
+
+h1 {
+
+	text-transform: uppercase;
+	text-align: center;
+	font-family: monospace;
+	font-size: 4rem;
+	margin-top: 10%;
+}
+
+
+
+
+#block-color {
+
+	text-align: center;
+	word-spacing: 2em;
+}
+
+
+#result-selected {
+
+	text-align: center;
+	margin-top: 10%;
+	font-size: 2rem;
+}
