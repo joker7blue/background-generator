@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/joker7blue/background-generator/issues"
   },
-  "homepage": "https://github.com/joker7blue/background-generator#readme",
+  "homepage": "https://github.com/joker7blue/background-generator/index.html",
   "devDependencies": {
     "live-server": "^1.2.1"
   }
