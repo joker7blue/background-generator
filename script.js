@@ -29,7 +29,7 @@ function initialize(firstColor, secondColor) {
 initialize('#ff8000', '#008080');
 
 
-color1.addEventListener('input' , (event) => {
+color1.addEventListener('input' , (event) => { 
 
 	setBackground();
 });
