@@ -18,6 +18,7 @@ function initialize(firstColor, secondColor) {
 
 	color1.value = firstColor;
 	color2.value = secondColor;
+	
 	setBackground();
 }
 
