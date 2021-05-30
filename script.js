@@ -13,7 +13,7 @@ function setBackground() {
 }
 
 
-/* INITIALIZATION FUNCTION (TO SET DEFAULT COLOR) */
+/* INITIALIZATION FUNCTION (TO SET DEFAULT COLOR)  */
 function initialize(firstColor, secondColor) {
 
 	color1.value = firstColor;
