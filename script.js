@@ -26,7 +26,6 @@ function initialize(firstColor, secondColor) {
 
 
 
-
 /****************************************  PROCESSING ***********************************************/
 initialize('#ff8000', '#008080');
 
