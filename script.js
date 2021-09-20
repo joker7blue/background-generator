@@ -37,7 +37,7 @@ color1.addEventListener('input' , (event) => {
 
 
 
-color2.addEventListener('input' , (event) => {
+color2.addEventListener('input' , (event) => { 
 
 	setBackground();
 });
