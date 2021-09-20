@@ -9,7 +9,7 @@ function setBackground() {
 
 	body.style.background = 'linear-gradient(to right, '+color1.value+', '+color2.value+')';
 	result.textContent = body.style.background;
-}
+} 
 
 
 /* INITIALIZATION FUNCTION (TO SET DEFAULT COLOR)  */
